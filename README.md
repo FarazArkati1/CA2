@@ -37,7 +37,7 @@ Create an account at https://www.themoviedb.org, select the 'API' link from the 
 
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 
-### Sources of the datasets 
+### Sources of the datasets.
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
