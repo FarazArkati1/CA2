@@ -21,10 +21,6 @@ Create an account at https://www.themoviedb.org, select the 'API' link from the 
 4. The command "python main.py" may be used to launch the "main.py" file from your project directory's terminal or command prompt.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 
-## Screenshots of the site
-
-
-
 ### Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
